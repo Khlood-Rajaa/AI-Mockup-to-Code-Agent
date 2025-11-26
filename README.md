@@ -28,10 +28,12 @@
 ---
 
 ## 📹 Live Demo
-*(Coming Soon – Deploy with Streamlit Cloud)*
+
+
+
+https://github.com/user-attachments/assets/314e2646-46b5-4d2f-9951-e40bb2bbfaa8
 
 ---
-
 ## ✨ Quick Features
 
 - **🤖 AI-Powered Analysis** - Google Gemini understands your design layout automatically
